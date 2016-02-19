@@ -1,0 +1,33 @@
+{
+	"name": "mibadger/mibadger",
+	"description": "The PHP Framework",
+	"type": "library",
+	"keywords": [
+		"mibadger",
+		"badger",
+		"framework"
+	],
+	"homepage": "https://www.mibadger.com",
+	"license": "Apache-2.0",
+	"authors": [
+		{
+			"name": "Michael Webbers",
+			"email": "michael@webbers.io",
+			"homepage": "http://webbers.io"
+		}
+	],
+	"require": {
+		"php": ">=5.6.0",
+		"mibadger/active-record": "0.2.*",
+		"mibadger/enum": "1.*",
+		"mibadger/event": "1.*",
+		"mibadger/file": "1.*",
+		"mibadger/http": "1.*",
+		"mibadger/log": "1.*",
+		"mibadger/mvc": "1.*",
+		"mibadger/observer": "1.*",
+		"mibadger/router": "1.*",
+		"mibadger/settings": "1.*",
+		"mibadger/singleton": "1.*"
+	}
+}
