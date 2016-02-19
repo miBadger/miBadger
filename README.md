@@ -1,2 +1,3 @@
 # miBadger
-The PHP Framework
+
+The PHP Framework.
