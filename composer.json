@@ -1,11 +1,12 @@
 {
 	"name": "mibadger/mibadger",
-	"description": "The PHP Framework",
+	"description": "Less then a framework, more then a library",
 	"type": "library",
 	"keywords": [
 		"mibadger",
 		"badger",
-		"framework"
+		"framework",
+		"library"
 	],
 	"homepage": "https://www.mibadger.com",
 	"license": "Apache-2.0",
