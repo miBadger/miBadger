@@ -1,3 +1,3 @@
 # miBadger
 
-The PHP Framework.
+Less then a framework, more then a library.
