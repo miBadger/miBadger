@@ -1,3 +1,3 @@
 # miBadger
 
-Less then a framework, more then a library.
+Less than a framework, more than a library.
