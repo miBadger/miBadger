@@ -1,6 +1,6 @@
 {
 	"name": "mibadger/mibadger",
-	"description": "Less then a framework, more then a library",
+	"description": "Less than a framework, more than a library",
 	"type": "library",
 	"keywords": [
 		"mibadger",
@@ -19,7 +19,7 @@
 	],
 	"require": {
 		"php": ">=5.6.0",
-		"mibadger/active-record": "0.4.*",
+		"mibadger/active-record": "0.*",
 		"mibadger/enum": "1.*",
 		"mibadger/event": "1.*",
 		"mibadger/file": "1.*",
@@ -28,7 +28,7 @@
 		"mibadger/mvc": "1.*",
 		"mibadger/observer": "1.*",
 		"mibadger/pagination": "1.*",
-		"mibadger/query": "0.3.*",
+		"mibadger/query": "0.*",
 		"mibadger/router": "1.*",
 		"mibadger/settings": "1.*",
 		"mibadger/singleton": "1.*"
