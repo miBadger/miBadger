@@ -42,8 +42,8 @@ There is one exception on PSR 2. We use tabs instead of 4 spaces for indentation
 
 | Component    | Version | Status                                                                                  |
 | ------------ |:-------:|:---------------------------------------------------------------------------------------:|
-| ActiveRecord | 0.4.*   | ![Build Status](https://travis-ci.org/miBadger/miBadger.ActiveRecord.svg?branch=master) |
-| Query        | 0.3.*   | ![Build Status](https://travis-ci.org/miBadger/miBadger.Query.svg?branch=master)        |
+| ActiveRecord | 0.*     | ![Build Status](https://travis-ci.org/miBadger/miBadger.ActiveRecord.svg?branch=master) |
+| Query        | 0.*     | ![Build Status](https://travis-ci.org/miBadger/miBadger.Query.svg?branch=master)        |
 
 ### Development
 
