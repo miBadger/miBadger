@@ -18,19 +18,19 @@
 		}
 	],
 	"require": {
-		"php": ">=5.6.0",
-		"mibadger/active-record": "0.*",
-		"mibadger/enum": "1.*",
-		"mibadger/event": "1.*",
-		"mibadger/file": "1.*",
-		"mibadger/http": "1.*",
-		"mibadger/log": "1.*",
-		"mibadger/mvc": "1.*",
-		"mibadger/observer": "1.*",
-		"mibadger/pagination": "1.*",
-		"mibadger/query": "0.*",
-		"mibadger/router": "1.*",
-		"mibadger/settings": "1.*",
-		"mibadger/singleton": "1.*"
+		"php": "^7.0",
+		"mibadger/active-record": "^1.0",
+		"mibadger/enum": "^2.0",
+		"mibadger/event": "^2.0",
+		"mibadger/file": "^2.0",
+		"mibadger/http": "^2.0",
+		"mibadger/log": "^2.0",
+		"mibadger/mvc": "^2.0",
+		"mibadger/observer": "^2.0",
+		"mibadger/pagination": "^2.0",
+		"mibadger/query": "^1.0",
+		"mibadger/router": "^2.0",
+		"mibadger/settings": "^2.0",
+		"mibadger/singleton": "^2.0"
 	}
 }
